@@ -1,0 +1,11 @@
+C:\Users\50373\OneDrive\Escritorio\Guia 01-S08\Guia 01-S08\bin\Debug\Guia 01-S08.exe.config
+C:\Users\50373\OneDrive\Escritorio\Guia 01-S08\Guia 01-S08\bin\Debug\Guia 01-S08.exe
+C:\Users\50373\OneDrive\Escritorio\Guia 01-S08\Guia 01-S08\bin\Debug\Guia 01-S08.pdb
+C:\Users\50373\OneDrive\Escritorio\Guia 01-S08\Guia 01-S08\bin\Debug\Guia 01-S08.xml
+C:\Users\50373\OneDrive\Escritorio\Guia 01-S08\Guia 01-S08\obj\Debug\Guia 01-S08.vbproj.AssemblyReference.cache
+C:\Users\50373\OneDrive\Escritorio\Guia 01-S08\Guia 01-S08\obj\Debug\Guia_01_S08.Resources.resources
+C:\Users\50373\OneDrive\Escritorio\Guia 01-S08\Guia 01-S08\obj\Debug\Guia 01-S08.vbproj.GenerateResource.cache
+C:\Users\50373\OneDrive\Escritorio\Guia 01-S08\Guia 01-S08\obj\Debug\Guia 01-S08.vbproj.CoreCompileInputs.cache
+C:\Users\50373\OneDrive\Escritorio\Guia 01-S08\Guia 01-S08\obj\Debug\Guia 01-S08.exe
+C:\Users\50373\OneDrive\Escritorio\Guia 01-S08\Guia 01-S08\obj\Debug\Guia 01-S08.xml
+C:\Users\50373\OneDrive\Escritorio\Guia 01-S08\Guia 01-S08\obj\Debug\Guia 01-S08.pdb
